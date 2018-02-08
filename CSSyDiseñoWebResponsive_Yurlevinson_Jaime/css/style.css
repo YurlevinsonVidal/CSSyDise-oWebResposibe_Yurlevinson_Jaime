@@ -133,7 +133,7 @@ spam a{
 	#galery{
 		display: flex;
 		flex-direction: column;
-		background-color: #d5c75f;
+	  background-color: #d5c75f;
 	}
 	#galery div{
 			display: flex;
