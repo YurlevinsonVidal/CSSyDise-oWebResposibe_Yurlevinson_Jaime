@@ -132,15 +132,16 @@ header{
 		perspective-origin: right;
 		margin: auto 0;
 	}
-	#galery{
-		display: flex;
-		flex-direction: column;
-	  background-color: #d5c75f;
-	}
+	
 	.inter{
 		flex-basis: 0;
 		flex-grow: 1;
 		margin: 0;
+	}
+	#galery{
+		display: flex;
+		flex-direction: column;
+	  background-color: #d5c75f;
 	}
 	#galery div{
 			display: flex;
